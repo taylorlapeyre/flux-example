@@ -1,0 +1,11 @@
+{
+  "jspm": {
+    "dependencies": {
+      "flux": "npm:flux@^2.0.1",
+      "jsx": "^0.1.1",
+      "keymirror": "npm:keymirror@^0.1.1",
+      "nodelibs": "^0.0.9",
+      "react": "^0.12.2"
+    }
+  }
+}
