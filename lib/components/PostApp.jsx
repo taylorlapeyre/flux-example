@@ -6,7 +6,6 @@ import PostInput from './PostInput.jsx!'
 var PostApp = React.createClass({
 
   render() {
-    console.log(PostInput)
     return (
       <div>
         <PostInput />
